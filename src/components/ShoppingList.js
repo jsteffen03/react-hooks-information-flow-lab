@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Filter from "./Fitler";
+import Filter from "./Filter";
 import Item from "./Item";
 
 function ShoppingList({ items }) {
